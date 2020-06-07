@@ -8,7 +8,7 @@ Console Example:
 	-----
 
 	Available Encounters
-	0: example
+	0: _example
 	Which encounter would you like to run? 0
 
 	-----
@@ -20,7 +20,7 @@ Console Example:
 
 	-----
 
-	Available commands: [next|insert|hold|remove|exit]
+	Available commands: [next|insert|hold|remove|add|exit]
 
 	Current: Player 4
 	Command: hold

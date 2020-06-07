@@ -1,0 +1,9 @@
+.idea
+venv
+
+*.pyc
+__pycache__
+*/__pycache__
+
+/encounters/*
+!/encounters/_example.csv
